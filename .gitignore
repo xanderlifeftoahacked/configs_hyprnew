@@ -28,7 +28,7 @@ user-dirs.locale
 !fastfetch/*
 
 !nvim/
-!nvim/*
+!nvim/**
 
 !themes/
 !themes/*
