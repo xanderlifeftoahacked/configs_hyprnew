@@ -31,7 +31,7 @@
 
 * {
     /* border: none; */
-    border-radius: 0px;
+    border-radius: 3px;
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: "Fira Code Bold Nerd Font";
     /* Recommended font sizes: 720p: ~14px, 1080p: ~18px */
@@ -295,7 +295,7 @@ label:focus {
 #window {
     color: black;
     background-color: #90b1b1;
-    border-radius: 0px;
+    /* border-radius: 0px; */
     /* padding-left: 10px; */
     /* padding-right: 10px; */
     padding: 1px 6px 0px 6px;
