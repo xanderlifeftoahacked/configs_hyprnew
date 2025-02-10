@@ -3,7 +3,7 @@ return {
 	config = function()
 		require("toggleterm").setup({
 			size = 20,
-			shell = "fish",
+			shell = "env vim=1 fish",
 		})
 	end,
 }
